@@ -1,0 +1,7 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Roboto', 'Latin';
+}
